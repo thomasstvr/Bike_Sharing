@@ -1,7 +1,7 @@
 # Citi Bike NYC
 
 In this repository we have created a Tableau story based on Citi Bike bicycle rental data in New York City. The aim is to persuade investors to invest in a pilot location in Des Moines Iowa. The story can be seen at this link: 
-![Citi Bike Challenge](
+[Citi Bike Challenge](
 https://public.tableau.com/profile/thomas.k.stover#!/vizhome/CitiBikeChallenge_16177490156440/CitiBikeAnalysis?publish=yes)
 
 ## Results
